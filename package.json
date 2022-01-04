@@ -2,7 +2,6 @@
   "name": "aws-sam-lambda-typescript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "webpack-cli",
     "watch": "webpack-cli -w"
